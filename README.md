@@ -6,6 +6,8 @@ Full-stack software engineer with 7+ years across e-commerce, SaaS, and automoti
 
 [Website](https://thefeshin.me) · [LinkedIn](https://www.linkedin.com/in/farid-shokri/) · [Email](mailto:farid_shokri@outlook.com)
 
+Currently building e-commerce products at [Torob](https://torob.com) and [Mixin](https://mixin.ir/). Previously at Digikala and MATT3R.ai.
+
 ## Selected impact
 
 - Increased storefront-creation conversion by **up to 80%**.
@@ -23,7 +25,3 @@ Full-stack software engineer with 7+ years across e-commerce, SaaS, and automoti
 ## Featured project
 
 **[Hush](https://github.com/thefeshin/hush)** - a self-hosted, client-side encrypted chat relay designed around minimal server trust, unreliable networks, and air-gapped deployment. Built with React, TypeScript, FastAPI, PostgreSQL, and Docker.
-
-Currently building e-commerce products at [Torob](https://github.com/torob). Previously at MATT3R.ai and Digikala.
-
-> Accessible by default. Measured before optimized. Simple until complexity earns its place.
