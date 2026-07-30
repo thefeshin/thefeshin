@@ -6,7 +6,7 @@ Full-stack software engineer with 7+ years across e-commerce, SaaS, and automoti
 
 [Website](https://thefeshin.me) · [LinkedIn](https://www.linkedin.com/in/farid-shokri/) · [Email](mailto:farid_shokri@outlook.com)
 
-Currently building e-commerce products at [Torob](https://torob.com) and [Mixin](https://mixin.ir/). Previously at Digikala and MATT3R.ai.
+Currently building e-commerce products at [Torob](https://torob.com) and [Mixin](https://mixin.ir/). Previously at [Digikala](https://digikala.com) and [MATT3R.ai](https://matt3r.ai).
 
 ## Selected impact
 
