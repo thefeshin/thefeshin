@@ -1,7 +1,5 @@
 # Farid Shokri
 
-### I build web products that feel fast - and systems that stay simple.
-
 Full-stack software engineer with 7+ years across e-commerce, SaaS, and automotive. I work end to end: accessible interfaces, backend services, real-time data, and AWS infrastructure.
 
 [Website](https://thefeshin.me) · [LinkedIn](https://www.linkedin.com/in/farid-shokri/) · [Email](mailto:farid_shokri@outlook.com)
