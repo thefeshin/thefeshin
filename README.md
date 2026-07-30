@@ -20,7 +20,7 @@ Currently building e-commerce products at [Torob](https://torob.com) and [Mixin]
 **Product UI** - TypeScript, React, Next.js, React Query, Redux, Storybook  
 **Backend** - Node.js, Express, Python, FastAPI  
 **Cloud & data** - AWS CDK, Lambda, AppSync, DynamoDB, RDS, OpenSearch  
-**Quality & delivery** - Jest, Cypress, Playwright, Nx, CI/CD
+**Quality & delivery** - Jest, Playwright, Nx, CI/CD
 
 ## Featured project
 
