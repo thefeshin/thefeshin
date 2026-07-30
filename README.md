@@ -1,6 +1,6 @@
 # Farid Shokri
 
-Full-stack software engineer with 7+ years across e-commerce, SaaS, and automotive. I work end to end: accessible interfaces, backend services, real-time data, and AWS infrastructure.
+Full-stack software engineer with 7+ years across e-commerce, SaaS, and automotive industry. I work end to end: accessible interfaces, backend services, real-time data, and AWS infrastructure.
 
 [Website](https://thefeshin.me) · [LinkedIn](https://www.linkedin.com/in/farid-shokri/) · [Email](mailto:farid_shokri@outlook.com)
 
